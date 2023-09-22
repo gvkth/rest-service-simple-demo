@@ -8,5 +8,6 @@
 	<a href="test/hello">Hello (relative path)</a>
 	<h1>Students API</h1>
 	<a href="api/students">api/student</a>
+	<a href="api/students/0">Get all students</a>
 </body>
 </html>
